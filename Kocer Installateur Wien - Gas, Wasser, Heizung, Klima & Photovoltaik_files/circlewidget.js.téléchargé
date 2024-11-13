@@ -1,0 +1,2 @@
+/* ProvenExpert circle widget */
+document.getElementById("provenexpert_circle_widget_tyemx").innerHTML="<a href=\"https://www.provenexpert.com/kocer-co-kg/?utm_source=Widget&amp;utm_medium=Widget&amp;utm_campaign=Widget\" title=\"Kundenbewertungen &amp; Erfahrungen zu Kocer & Co KG. Mehr Infos anzeigen.\" target=\"_blank\" rel=\"noopener noreferrer\"><img height=\"109\" width=\"150\" src=\"https://www.provenexpert.com/images/de-de/widget/circle/widget.png\" alt=\"Kundenbewertungen &amp; Erfahrungen zu Kocer & Co KG. Mehr Infos anzeigen.\"></a>";
